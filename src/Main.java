@@ -8,7 +8,7 @@ public class Main {
         hashMap.put("nom", "Dupuis");
         hashMap.put("Yosef", "Yosef");
         hashMap.put("prenom", "Ismael");
-        hashMap.put("age", "30");
+        hashMap.put("age", "12");
 
         System.out.println("-----");
 
