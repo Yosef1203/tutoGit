@@ -4,5 +4,6 @@ public class Ismael {
     private String;
 
     private int Yosef;
+    private String Ardita;
 
 }
